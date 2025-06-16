@@ -35,7 +35,7 @@ const Contact = () => {
 
         <Col md={6} className="mt-4 mt-md-0" data-aos="fade-left">
           <h4>Contact Information</h4>
-          <p><strong>Address:</strong> 123 Tech Street, New City, India</p>
+          <p><strong>Address:</strong> 123 Tech Street, New Delhi, India</p>
           <p><strong>Email:</strong> tanzilshop@gmail.com </p>
           <p><strong>Phone:</strong> +1 234 567 8900</p>
           <p><strong>Hours:</strong> Mon–Sat , 9:00 AM – 6:00 PM</p>
