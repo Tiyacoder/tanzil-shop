@@ -83,7 +83,7 @@ const Home = () => {
                 <Card.Body>
                   <Card.Title>{product.name}</Card.Title>
                   <Card.Text>{product.price}</Card.Text>
-                  <Button variant="primary">Add to Cart</Button>
+                
                 </Card.Body>
               </Card>
             </Col>
