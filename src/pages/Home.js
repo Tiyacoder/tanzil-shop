@@ -60,7 +60,7 @@ const Home = () => {
         }}
       >
         <h1 style={{ fontSize: "4rem", fontWeight: "bold" }}>Tanzil Store</h1>
-        <p style={{ fontSize: "1.5rem" }}>Shop with us</p>
+        <p style={{ fontSize: "1.5rem" }}>Best Online Electronic Store</p>
         <Button variant="light" size="lg" href="/shop">
           Shop Now
         </Button>
